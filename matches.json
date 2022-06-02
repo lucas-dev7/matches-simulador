@@ -1,0 +1,14 @@
+[
+  {
+    "descricao": "Eliminatorias copa 22",
+    "local": {
+    "nome": "Maracana"
+    "imagem" : "TODO"
+    },
+    "mandante": {
+      "nome": "Argentina",
+      "forca": 5,
+      "imagem": "TODO"
+    }
+  }
+]
